@@ -11,8 +11,8 @@ It is closed source because this is a legacy software that is not suitable for o
 # Download
 
 Hades2 is downloadable below for :
-- [Linux (64 bits)](https://github.com/rte-france/hades2-distribution/releases/download/v6.0.0.2/hades2-V6.0.0.2-linux.tar.gz)
-- [Windows (64 bits)](https://github.com/rte-france/hades2-distribution/releases/download/v6.0.0.2/hades2-V6.0.0.1-windows.zip)
+- [Linux (64 bits)](https://github.com/rte-france/hades2-distribution/releases/download/V6.0.0.2/hades2-V6.0.0.2-linux.tar.gz)
+- [Windows (64 bits)](https://github.com/rte-france/hades2-distribution/releases/download/V6.0.0.1/hades2-V6.0.0.1-windows.zip)
 
 # What's next ?
 
