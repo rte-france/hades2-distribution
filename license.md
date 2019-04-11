@@ -7,9 +7,7 @@ layout: default
 
 **BETWEEN**
 
-**RTE Réseau de transport d’électricité**, a limited company governed by a Management Board and a Supervisory Board,
-listed in the Nanterre Trade and Business Register under the number 444 619 258, having its registered offices at 7C Place du Dôme, 92800 LA DEFENSE, represented herein by Yannick Jacquemart, in his capacity of head
-of the R&D Direction, authorised for this purpose, referred to in the present document as *"RTE"*, **ON THE FIRST PART**,
+**RTE Réseau de transport d’électricité**, a limited company governed by a Management Board and a Supervisory Board, listed in the Nanterre Trade and Business Register under the number 444 619 258, having its head office located at Batiment Window, 7C Place du Dôme, 92800 LA DEFENSE, represented herein by Yannick Jacquemart, in his capacity of head of the R&D Direction, authorised for this purpose, referred to in the present document as *"RTE"*, **ON THE FIRST PART**,
 
 **AND**
 
