@@ -1,7 +1,5 @@
----
-title: Hades Software License Agreement
-layout: default
----
+# Hades Software License Agreement
+
 
 **PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING OR USING HADES - RTE SOFTWARE.**
 
